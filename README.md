@@ -1,4 +1,36 @@
-## Hi there 👋
+## <sub>![logo](/logo.png)</sub> Hi there 👋
+
+My name is Garikai. I'm an electrical engineer by profession, and I have been developing software for over 10 years as a past-time. I make both backend and frontend applications, with specializations in web development and social media bot workers. Most of my personal software projects are hosted here so feel free to check them out.
+
+## Skills and Technologies
+
+### Skills
+
+- Full-Stack Development
+- Automated Testing
+- CI/CD
+- Git Flow
+- Agile Development
+- Documentation
+
+### Frontend Technologies
+
+- Typescript
+- React
+- Next.js
+- HTML/CSS
+- Javascript
+- Sass
+- TailwindCSS
+
+### Backend and Cloud Infrastructure
+
+- Node.js
+- Next.js
+- Spring Boot
+- Supabase
+- Vercel
+- Docker
 
 <!--
 **Grod56/Grod56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
