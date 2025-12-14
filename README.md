@@ -1,11 +1,10 @@
-## <sub>![logo](/logo.png)</sub> Hi there 👋
+## <sub>![logo](/logo.png)</sub>    Hello and welcome
 
-My name is Garikai. I'm an electrical engineer by profession, and I have been developing software for over 10 years as a past-time. I make both backend and frontend applications, with specializations in web development and social media bot workers. Most of my personal software projects are hosted here so feel free to check them out.
+🌍 [Website](https://garikai.org)    |    📧 [Email](mailto:rodneygaryx29@gmail.com)
+
+My name is Garikai. I'm an electrical engineer by profession, and I have also been developing software for over 10 years. I make both backend and frontend applications, with specializations in web development and social media bots. Most of my personal software projects are hosted here so feel free to check them out.
 
 ## Skills and Technologies
-
-<div style="display: flex;">
-<p style="padding: 10px;">
   
 ### Skills
 - Full-Stack Development
@@ -14,10 +13,6 @@ My name is Garikai. I'm an electrical engineer by profession, and I have been de
 - Git Flow
 - Agile Development
 - Documentation
-  
-</p>
-
-<p style="flex: 1; padding: 10px">
   
 ### Frontend Technologies
 - Typescript
@@ -28,10 +23,6 @@ My name is Garikai. I'm an electrical engineer by profession, and I have been de
 - Sass
 - TailwindCSS
   
-</p>
-
-<p style="flex: 1; padding: 10px">
-  
 ### Backend and Cloud Infrastructure
 - Node.js
 - Next.js
@@ -39,10 +30,6 @@ My name is Garikai. I'm an electrical engineer by profession, and I have been de
 - Supabase
 - Vercel
 - Docker
-  
-</p>
-
-</div>
 
 <!--
 **Grod56/Grod56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
