@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 🌍 [Website](https://garikai.org)&ensp;|&ensp;📧 [Email](mailto:providenceuniversalstudios@gmail.com)
 
