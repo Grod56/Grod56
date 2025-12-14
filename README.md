@@ -2,7 +2,7 @@
 
 🌍 [Website](https://garikai.org)&ensp;|&ensp;📧 [Email](mailto:rodneygaryx29@gmail.com)
 
-My name is Garikai. I'm an electrical engineer by profession, and I have been developing software for 12 years. I make both backend and frontend applications, with specializations in web development and social media bots. Most of my personal software projects are hosted here so feel free to check them out.
+My name is Garikai. I'm an electrical engineer by profession, and I have been developing software for 12 years. I make both backend and frontend applications, with specializations in web development, social media bots, and embedded systems. Most of my personal software projects are hosted here so feel free to check them out.
 
 ## Skills and Technologies
 
