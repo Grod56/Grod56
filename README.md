@@ -1,6 +1,7 @@
 # About Me
 
-🌍 [Website](https://garikai.org)&ensp;|&ensp;📧 [Email](mailto:providenceuniversalstudios@gmail.com)
+[![Website](https://img.shields.io/badge/-🌍%20Website-antiquewhite?style=for-the-badge)](https://garikai.org)&ensp;
+[![Email](https://img.shields.io/badge/-📧%20Email-antiquewhite?style=for-the-badge)](mailto:providenceuniversalstudios@gmail.com)
 
 My name is Garikai. I'm an electrical engineer by profession, and I have been developing software for 12 years. I make both backend and frontend applications, with specializations in web development, social media bots, and embedded systems. Most of my personal software projects are hosted here so feel free to check them out.
 
