@@ -11,13 +11,12 @@ My name is Garikai. I'm an electrical engineer by profession, and I have been de
   
 ### General Skills
 ---
-- Full-Stack Development
+- Software Engineering
 - Automated Testing
 - CI/CD
 - Git Flow
 - Agile Development
 - Documentation
-- Bot Applications
 - Embedded and Control Systems
 
   
