@@ -18,9 +18,10 @@ My name is Garikai. I'm an electrical engineer by profession, and I have been de
 - CI/CD
 - Github Flow
 - Agile Development
-- Documentation
-- Automation
-- Embedded and Control Systems
+- Library and Framework Development
+- Automation Engineering
+- PLC Programming
+- Embedded Systems Programming
 
   
   
