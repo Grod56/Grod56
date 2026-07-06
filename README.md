@@ -20,7 +20,7 @@ My name is Garikai. I'm an electrical engineer by profession, and I have been de
 - Agile Development
 - Library and Framework Development
 - Automation Engineering
-- PLC Programming
+- PLC and HMI Programming
 - Embedded Systems Programming
 
   
