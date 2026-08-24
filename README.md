@@ -17,7 +17,7 @@ My name is Garikai. I'm an electrical engineer by profession, and I have been de
 - Automated Testing
 - CI/CD
 - Github Flow
-- Agile Development
+- Free and Open Source Software
 - Library and Framework Development
 - Internationalization (i18n)
 - Automation Engineering
